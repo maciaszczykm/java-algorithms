@@ -1,2 +1,2 @@
-# java-algorithms
-Java implementation of well-known algorithms
+# Java Algorithms
+Java implementation of well-known algorithms.
