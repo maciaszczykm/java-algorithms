@@ -1,0 +1,10 @@
+# Java-specific files
+*.class
+*.log
+*.jar
+
+# IDE-specific files
+.idea/
+
+# System-specific files
+.DS_Store
