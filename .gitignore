@@ -1,3 +1,6 @@
+# Project-specific files
+/out
+
 # Java-specific files
 *.class
 *.log
